@@ -1,0 +1,4 @@
+type main ctrl+spacebar (public static void main(String[] args) 
+type syso ctrl+spacebar (System.out.println)
+alt+shift+r (rename)
+ctrl+1 
