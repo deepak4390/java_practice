@@ -23,6 +23,10 @@ public class Test1 {
 		System.out.println(Lion.claws);
 		System.out.println(Lion.stand);
 		System.out.println(Lion.age);
+		System.out.println();
+		
+		
+		
 	}
 
 }

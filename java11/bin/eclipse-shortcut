@@ -1,4 +1,5 @@
 type main ctrl+spacebar (public static void main(String[] args) 
 type syso ctrl+spacebar (System.out.println)
 alt+shift+r (rename)
-ctrl+1 
+ctrl+1 variable
+ctrl+shift+f To format the code

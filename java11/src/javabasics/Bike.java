@@ -12,7 +12,7 @@ public class Bike {//class
 	double speed;
 	char chawk;
 	boolean sensor;
-	String getsplendor(String s,int i) { //own method body
+	String getsplendor(String s,int i) { //method body
 		return s;
 	}
 	int getTyre(int i,String s){
