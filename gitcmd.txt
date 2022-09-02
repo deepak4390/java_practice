@@ -1,0 +1,7 @@
+
+
+git config --global user.email "deepakkuamr310321@gmail.com"
+git config --global user.name "deepak4390"
+
+
+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
